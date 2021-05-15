@@ -12,7 +12,7 @@ Give a summary description of Four design patterns that you choose from the foll
 **ADAPTER**
 Adapter design pattern is one of the structural design pattern and its used so that two unrelated interfaces can work together. The object, that joins these unrelated interfaces, is called an Adapter.
 
-Example: Ever tried to use a camera memory card in a laptop. We cannot use it directly simply because there is no port in laptop which accept it. We must use a compatible card reader. We put the memory card into the card reader and then inject the card reader into the laptop. This card reader can be called the adapter.
+Example: Using a camera memory card in a laptop. We cannot use it directly simply because there is no port in laptop which accept it. We must use a compatible card reader. We put the memory card into the card reader and then inject the card reader into the laptop. This card reader can be called the adapter.
 
 Advantages :
 
